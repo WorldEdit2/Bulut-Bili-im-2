@@ -12,4 +12,8 @@ HTML = """
 <head>
      <title>Dünyadan Selam!</title>
      <style>
-       body { font-family : Arial
+       body { font-family : Arial; text-align: center; padding: 50px; background: #ef2f3; }
+       hi { color : #333; }
+       form { margin: 20px auto; }
+       input { padding:10px; font-size: 16px; }
+       button {padding: 10px 15px; background:
